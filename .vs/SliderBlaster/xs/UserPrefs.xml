@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{435D24AB-5560-4CD7-99DE-0C24FAA87B9D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SliderBlaster/MainPage.xaml.cs">
+    <Files>
+      <File FileName="SliderBlaster/MainPage.xaml.cs" Line="15" Column="65" />
+      <File FileName="SliderBlaster/MainPage.xaml" Line="8" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SliderBlaster.Android PreferredExecutionTarget="Android.0045978518" />
+  <MonoDevelop.Ide.ItemProperties.SliderBlaster.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
